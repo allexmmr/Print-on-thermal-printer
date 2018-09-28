@@ -1,0 +1,29 @@
+{
+  "name": "print-on-thermal-printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allexmmr/Print-on-thermal-printer.git"
+  },
+  "keywords": [
+    "Node",
+    "print",
+    "thermal",
+    "printer"
+  ],
+  "author": "Allex Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allexmmr/Print-on-thermal-printer/issues"
+  },
+  "homepage": "https://github.com/allexmmr/Print-on-thermal-printer#readme",
+  "dependencies": {
+    "escpos": "^2.4.9"
+  }
+}
